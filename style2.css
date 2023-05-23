@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif;
+    
+}
+header {
+background-color: wheat;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 19px;
+}
+ h1 img {
+height:60px;
+width: 60px;
+}
+h2 {
+font-size: 29px;
+}
+h2 img {
+height: 70px;
+width: 70px;
+}
+.hi {
+height: 310px;
+width: 320px;
+}
+.no {
+height: 290px;
+width: 290px;
+}
+h3 {
+    font-size: 29px;
+}
+.lala {
+height: 60px;
+width: 70px;
+}
+.hehe {
+height: 300px;
+width: 300px;
+}
+.io {
+height: 300px;
+width: 290px;
+}
+h4 {
+font-size: 29px;
+}
+h4 img {
+height: 60px;
+width: 60px;
+}
+h5 {
+font-size: 29px;
+}
+h5 img {
+    height: 60px;
+    width: 70px;
+}
+h6 {
+font-size: 29px;
+}
+h6 img {
+height: 60px;
+width: 60px;
+}
+.sisi {
+font-size: 20px;
+text-align: center;
+font-family: cursive;
+}
+.kvati {
+text-decoration: none;
+font-size: 30px;
+color: black;
+border: 5px solid black;
+padding: 6px;
+margin: auto;
+border-radius: 10px;
+background-color: coral;
+}
+table {
+border: 5px solid black;
+}
+td {
+border: 5px solid black;
+color: red;
+}
+h7 {
+font-size: 29px;
+font-family:monospace;
+}
+.oe {
+text-align: center;
+}
+.lolo {
+float: left;
+}
+.vovo {
+float: right;
+}
+.nana {
+height: 200px;
+width: 200px;
+}
+.lili {
+font-size: 30px;
+text-decoration: none;
+color: black;
+font-family: monospace;
+}
